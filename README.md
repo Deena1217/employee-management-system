@@ -23,4 +23,4 @@
 1. Initialize Vue app using `npm init vue@latest`
 2. Create components and call API endpoints
 3. Use Axios to interact with `http://localhost:5125/api/employees`
->>>>>>> 275d908 (Initial commit)
+
